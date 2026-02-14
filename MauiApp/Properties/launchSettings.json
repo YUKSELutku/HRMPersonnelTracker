@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HrmApp (Unpackaged)": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
