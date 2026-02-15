@@ -167,7 +167,7 @@ The payroll engine implements Turkish labor law requirements:
 ### Employer Cost
 | Component | Default Rate |
 |-----------|-------------|
-| SGK Employer | 20.5% of gross |
+| SGK Employer | 21.75% of gross |
 | Unemployment Insurance | 2% of gross |
 
 All rates and tax brackets are configurable from the Settings page.
@@ -199,7 +199,7 @@ All rates and tax brackets are configurable from the Settings page.
 
 ```powershell
 # Clone the repository
-git clone https://github.com/YUKSELutku/hrm-tracker.git
+git clone https://github.com/YUKSELutku/HRMPersonnelTracker.git
 cd hrm-tracker
 
 # Build and run (single command)
